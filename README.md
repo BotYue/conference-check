@@ -2,8 +2,9 @@
 
 | Conference        | Date           | Location  |
 | ------------- |---------------| -----|
-| AAAI, Association for the Advancement of Artificial Intelligence  | February 4–9 | San Francisco. CA |
+| AAAI, Association for the Advancement of Artificial Intelligence  | <del>February 4–9<del> | San Francisco. CA |
 | Midwest Workshop on Control and Game Theory        |   April 22-23           |      Ann Arbor, MI             |
+| ICLR, International Conference on Learning Representations         |  April 24 - 26       |   Toulon, France    |
 | ICRA, International Conference on Robotics and Automation      | May 29-June 3   | Singapore |
 | ICAPS,  International Conference on Automated Planning and Scheduling |    June 18 - 23   |  Pittsburgh, PA  |
 | RSS, Robotics: Science and Systems | July 12-16      |    MIT, MA |

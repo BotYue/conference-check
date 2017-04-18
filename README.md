@@ -2,8 +2,8 @@
 
 | Conference        | Date           | Location  |
 | ------------- |---------------| -----|
-| AAAI, Association for the Advancement of Artificial Intelligence  | <del>February 4 – 9<del> | San Francisco. CA <font color="red"> --> </font>|
-| Midwest Workshop on Control and Game Theory        |   April 22 - 23           |      Ann Arbor, MI   <font color="red"> --> </font>           |
+| AAAI, Association for the Advancement of Artificial Intelligence  | <del>February 4 – 9<del> | San Francisco, CA  --> |
+| Midwest Workshop on Control and Game Theory        |   April 22 - 23           |      Ann Arbor, MI   --> |
 | ICLR, International Conference on Learning Representations         |  April 24 - 26       |   Toulon, France    |
 | ICRA, International Conference on Robotics and Automation      | May 29 - June 3   | Singapore |
 |  RLDM, Reinforcement Learning and Decision Making   |   June 11 - 14   |  Ann Arbor, MI    -->  |

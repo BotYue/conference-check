@@ -13,7 +13,7 @@
 | IROS, International Conference on Intelligent Robots and Systems |   September 24 – 28    |Vancouver, Canada    |
 | CoRL, Conference on Robot Learning |November 13 - 15 | Mountain View, CA -->|
 | NIPS, Neural Information Processing Systems        |December 4 - 9|  Long Beach, CA |
-
+| ISRR, International Symposium on Robotics Research        |   December 11-14, 2017     |    Puerto Varas, Chile      |
 
 
 
